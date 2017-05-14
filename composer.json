@@ -1,5 +1,5 @@
 {
-    "name": "Liridian/PincodeDirectory",
+    "name": "liridian/pincode-directory",
     "type": "library",
     "description": "PHP wrapper for All India Pincode Directory",
     "keywords": [
@@ -8,7 +8,7 @@
         "India",
         "Zipcode"
     ],
-    "homepage": "https://github.com/Liridian/PincodeDirectory",
+    "homepage": "https://github.com/liridian/pincode-directory",
     "license": "MIT",
     "authors": [
         {
