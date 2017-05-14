@@ -5,7 +5,7 @@ A PHP wrapper for the [All India Pincode directory](https://data.gov.in/resource
 
 ## Build Status
 
-
+[![Build Status](https://travis-ci.org/liridian/PincodeDirectory.svg?branch=master)](https://travis-ci.org/liridian/PincodeDirectory)
 
 ## Usage
 
